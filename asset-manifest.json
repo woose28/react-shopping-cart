@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/woose28/react-shopping-cart/static/js/main.77dd69ed.js",
+    "main.js": "/woose28/react-shopping-cart/static/js/main.bdfba46e.js",
     "static/media/serverErrorCharacter.png": "/woose28/react-shopping-cart/static/media/serverErrorCharacter.cbac33db64004cfd74f8.png",
     "static/media/shoppingCart.svg": "/woose28/react-shopping-cart/static/media/shoppingCart.9544b5d6eddb8b36996d6e18ebefe559.svg",
     "index.html": "/woose28/react-shopping-cart/index.html",
-    "main.77dd69ed.js.map": "/woose28/react-shopping-cart/static/js/main.77dd69ed.js.map"
+    "main.bdfba46e.js.map": "/woose28/react-shopping-cart/static/js/main.bdfba46e.js.map"
   },
   "entrypoints": [
-    "static/js/main.77dd69ed.js"
+    "static/js/main.bdfba46e.js"
   ]
 }
